@@ -1,30 +1,24 @@
 # WHATSAPP-BOT
-❝𝐓𝐡𝐞 𝐌𝐨𝐬𝐭 𝐏𝐨𝐰𝐞𝐫𝐟𝐮𝐥𝐥 𝐆𝐫𝐨𝐮𝐩 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 𝐁𝐨𝐭❞       ★𝘾𝘼𝙉𝙏𝘼𝘾𝙏 𝙍𝙀𝙋𝙊 𝙊𝙒𝙉𝙀𝙍★           https://t.me/social_mechanic_1997
+❝𝐓𝐡𝐞 𝐌𝐨𝐬𝐭 𝐏𝐨𝐰𝐞𝐫𝐟𝐮𝐥𝐥 𝐆𝐫𝐨𝐮𝐩 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 𝐁𝐨𝐭❞       ★𝘾𝘼𝙉𝙏𝘼𝘾𝙏 𝙍𝙀𝙋𝙊 𝙊𝙒𝙉𝙀𝙍★           [@SOCIAL MECHANIC](https://t.me/social_mechanic_1997)
 
 This is a Userbot based on WhatsAsena written by [Yusuf Usta](https://github.com/Quiec)
 
 ## What is WhatsAsena?
 
-**WhatsAsena,** is a WhatsApp bot written by [Yusuf Usta](https://github.com/Quiec). Does not log into your account It is written on WhatsApp Web API.
+**WhatsAsena,** is a WhatsApp bot written by [SOCIAL MECHANIC](https://github.com/SOCIAL-MECHANIC-1997/WHATSAPP-BOT). Does not log into your account It is written on WhatsApp Web API.
 
 ## Setup
 
-1. Click [SCAN](https://early-pie-production.up.railway.app/qr) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
-2. You will get a long text that needs after 4th step (ASENA_SESSION).
-3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
-4. Click [FORK](https://github.com/lyfe00011/whatsapp-bot/fork)
-5. Now https://heroku.com/deploy?template=https://github.com/lyfe00011/whatsapp-bot copy this url and change lyfe00011 with your github username and click GO<br>
-   <br>
-   <a href="https://youtu.be/FAT06h8jPZY"><img src="https://img.shields.io/badge/-watch%20video-critical?style=for-the-badge&logo=youtube&logoColor=white">
-   <br>
-   <a href="https://chat.whatsapp.com/Jl6U29pBwmWLG3OOOfdPPt"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-   <br>
-   <a href="https://github.com/lyfe00011/whatsapp-bot/wiki/"><img src="https://img.shields.io/badge/plugins-blue?style=for-the-badge&logo=appveyor%22"/></a>
-
+1. Click [![SCAN](https://img.shields.io/badge/SCAN-red?style=for-the-badge&logo=SCAN)](https://early-pie-production.up.railway.app/qr) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
+2. You will get a long text that needs after 4th step (ASENA_SESSION) [![Run on Repl.it](https://replit.com/badge/github/SOCIAL-MECHANIC-1997/whatsapp-bot)](https://replit.com/@Nightbot2O/baileys-qr).
+3. If You don't have a account in [![login](https://img.shields.io/badge/login-blue?style=for-the-badge&logo=login)](https://signup.heroku.com/), Create a account.
+4. Click [![FORK](https://img.shields.io/badge/FORK-blue?style=for-the-badge&logo=FORK)](https://github.com/SOCIAL-MECHANIC-1997/WHATSAPP-BOT/fork)
+5. Now [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SOCIAL-MECHANIC-1997/WHATSAPP-BOT) Deploy <br>
+  
+   
 <!--
-[![Run on Repl.it](https://replit.com/badge/github/lyfe00011/whatsapp-bot)](https://replit.com/@Nightbot2O/baileys-qr)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lyfe00011/whatsapp-bot) -->
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SOCIAL-MECHANIC-1997/WHATSAPP-BOT) -->
 <details>
 <summary>Plugins</summary>
 <p>
@@ -112,7 +106,7 @@ This is a Userbot based on WhatsAsena written by [Yusuf Usta](https://github.com
 </p>
 </details>
    
-### Thanks To
+### CREATERS
 
-- [Yusuf Usta](https://github.com/Quiec) for [WhatsAsena](https://github.com/yusufusta/WhatsAsena)
-- [@adiwajshing](https://github.com/adiwajshing) for [Baileys](https://github.com/adiwajshing/Baileys)
+- [@SOCIAL MECHANIC](https://github.com/SOCIAL-MECHANIC-1997) 
+- [@MR TAMIZHAN](https://github.com/MR-TAMIZGAN-TEAM-NRD) 
