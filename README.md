@@ -1,12 +1,6 @@
 # WHATSAPP-BOT
 ❝𝐓𝐡𝐞 𝐌𝐨𝐬𝐭 𝐏𝐨𝐰𝐞𝐫𝐟𝐮𝐥𝐥 𝐆𝐫𝐨𝐮𝐩 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 𝐁𝐨𝐭❞       ★𝘾𝘼𝙉𝙏𝘼𝘾𝙏 𝙍𝙀𝙋𝙊 𝙊𝙒𝙉𝙀𝙍★           [@SOCIAL MECHANIC](https://t.me/social_mechanic_1997)
 
-This is a Userbot based on WhatsAsena written by [Yusuf Usta](https://github.com/Quiec)
-
-## What is WhatsAsena?
-
-**WhatsAsena,** is a WhatsApp bot written by [SOCIAL MECHANIC](https://github.com/SOCIAL-MECHANIC-1997/WHATSAPP-BOT). Does not log into your account It is written on WhatsApp Web API.
-
 ## Setup
 
 1. Click [![SCAN](https://img.shields.io/badge/SCAN-red?style=for-the-badge&logo=SCAN)](https://early-pie-production.up.railway.app/qr) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
