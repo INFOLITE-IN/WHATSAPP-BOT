@@ -1,6 +1,8 @@
 # WHATSAPP-BOT
 ❝𝐓𝐡𝐞 𝐌𝐨𝐬𝐭 𝐏𝐨𝐰𝐞𝐫𝐟𝐮𝐥𝐥 𝐆𝐫𝐨𝐮𝐩 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 𝐁𝐨𝐭❞       ★𝘾𝘼𝙉𝙏𝘼𝘾𝙏 𝙍𝙀𝙋𝙊 𝙊𝙒𝙉𝙀𝙍★           [@SOCIAL MECHANIC](https://t.me/social_mechanic_1997)
 
+<IMG src="https://telegra.ph/file/6caec29bf58337953a4b4.png">
+
 ## Setup
 
 1. Click [![SCAN](https://img.shields.io/badge/SCAN-red?style=for-the-badge&logo=SCAN)](https://early-pie-production.up.railway.app/qr) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
