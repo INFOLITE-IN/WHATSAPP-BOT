@@ -1,5 +1,5 @@
 # WHATSAPP-BOT
-❝𝐓𝐡𝐞 𝐌𝐨𝐬𝐭 𝐏𝐨𝐰𝐞𝐫𝐟𝐮𝐥𝐥 𝐆𝐫𝐨𝐮𝐩 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 𝐁𝐨𝐭❞       ★𝘾𝘼𝙉𝙏𝘼𝘾𝙏 𝙍𝙀𝙋𝙊 𝙊𝙒𝙉𝙀𝙍★           [@SOCIAL MECHANIC](https://t.me/social_mechanic_1997)
+❝𝐓𝐡𝐞 𝐌𝐨𝐬𝐭 𝐏𝐨𝐰𝐞𝐫𝐟𝐮𝐥𝐥 𝐆𝐫𝐨𝐮𝐩 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 𝐁𝐨𝐭❞       ★𝘾𝘼𝙉𝙏𝘼𝘾𝙏 𝙍𝙀𝙋𝙊 𝙊𝙒𝙉𝙀𝙍★         
 
 <IMG src="https://telegra.ph/file/6caec29bf58337953a4b4.png">
 
@@ -104,5 +104,5 @@
    
 ### CREATERS
 
-- [@SOCIAL MECHANIC](https://github.com/SOCIAL-MECHANIC-1997) 
-- [@MR TAMIZHAN](https://github.com/MR-TAMIZGAN-TEAM-NRD) 
+- [](https://github.com/) 
+- [](https://github.com/M) 
